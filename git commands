@@ -1,0 +1,8 @@
+git init
+git add
+git commit -m ""
+git checkout <id>
+git revert <id>
+git reset --hard <id>
+git status
+git log 
