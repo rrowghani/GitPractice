@@ -7,8 +7,10 @@ git reset --hard <id> (i think revert but do not create a new commit)
 git status
 git log 
 git branch (see the branch you are in)
-git branch <name> (from the HEAD) (create a branch)
+git branch -b <name> (from the HEAD) (create a branch)
 git branch -D <name> (delete)
 git merge <name>
 git remote add origin <url> (add username in the url)
 git push origin <branchname>
+git pull
+git branch --set-upstream-to=origin/master master
