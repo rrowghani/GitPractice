@@ -6,3 +6,5 @@ git revert <id>
 git reset --hard <id>
 git status
 git log 
+git branch <name> (from the HEAD)
+git merge <name>
