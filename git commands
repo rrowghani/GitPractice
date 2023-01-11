@@ -15,6 +15,3 @@ git remote or git remote -v or git remote set-url ... (see and edit the links)
 git push origin <branchname> (push local branch to remote repository)
 git pull
 git branch --set-upstream-to=origin/master master
-
-
-TESSTTTT!!!!!
